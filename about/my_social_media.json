@@ -15,14 +15,19 @@
         "info": "sanee4kaa"
     },
     {
-        "name": "Minecraft",
+        "name": "Minecraft (NameMC)",
         "img": "https://cdn.simpleicons.org/namemc/black",
-        "info": "sanee4ka"
+        "url": "shttps://namemc.com/profile/sanee4ka.1"
     },
     {
         "name": "Telegram",
         "img": "https://cdn.simpleicons.org/telegram/black",
         "url": "https://t.me/saneee4ka"
+    },
+    {
+        "name": "Telegram (AnonAskBot)",
+        "img": "https://cdn.simpleicons.org/telegram/black",
+        "url": "http://t.me/anonaskbot?start=asoxm"
     },
     {
         "name": "GitHub",
