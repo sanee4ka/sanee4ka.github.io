@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Telegram",
+		"icon": "SiTelegram",
+		"color": "#229ED9",
+		"url": "https://tg.alexly.me"
+	},
+	{
+		"name": "Steam",
+		"icon": "SiSteam",
+		"color": "#4978b3",
+		"url": "https://steam.alexly.me"
+	},
+	{
+		"name": "Spotify",
+		"icon": "SiSpotify",
+		"color": "#1DB954",
+		"url": "https://spotify.alexly.me"
+	},
+	{
+		"name": "GitHub",
+		"icon": "SiGithub",
+		"color": "white",
+		"url": "https://github.alexly.me"
+	},
+	{
+		"name": "Instagram",
+		"icon": "SiInstagram",
+		"color": "#E1306C",
+		"url": "https://instagram.alexly.me"
+	}
+]
